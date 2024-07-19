@@ -4,6 +4,6 @@ Importance of a Resume: First Impression, Highlight Skills and Experience, Tailo
 
 A portfolio is a collection of work samples that demonstrate an individual’s skills, abilities, and accomplishments in a tangible way. Portfolios can be physical or digital and are commonly used in creative fields, but they are becoming more popular in other industries as well.
 
-Importance of a Portfolio:
+Importance of a Portfolio:Showcase Work Quality, Demonstrate Skills in Action, Stand Out and Versatile Presentation
 
-Showcase Work Quality, Demonstrate Skills in Action, Stand Out and Versatile Presentation
+my portfolio link: https://mbikki17.github.io/my_portfolio/
